@@ -12,17 +12,19 @@
       <input type="text" id="comments"><br><br>
     </div>
     <div>
-      <label for="flag-waste">Flag as Waste</label> <br>
+      <label for="flag-waste">Flag as Waste</label>
       <input type="checkbox" id="flag-waste">
     </div>
     <div>
-      <label for="flag-sop">Not SOP</label><br>
+      <label for="flag-sop">Not SOP</label>
       <input type="checkbox" id="flag-sop">
     </div>
     <div>  
       <label for="flag-interruption">Interruption</label>
-      <input type="checkbox" id="flag-interruption"><br>
+      <input type="checkbox" id="flag-interruption"><br><br>
     </div>
+    <button>Add Task</button>
+    <button>New Task</button>
   </div>
 </template>
 
